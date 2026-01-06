@@ -1,19 +1,19 @@
-# FitBook – Landing Page Aplikasi Booking Gym
+# FitBook – Gym Booking App Landing Page
 
-Landing page frontend untuk aplikasi booking gym bernama FitBook.
-Project ini dibuat untuk menampilkan kemampuan HTML, CSS, dan JavaScript
-dalam membangun UI modern yang responsif dan siap produksi.
+A frontend landing page for a gym booking application called **FitBook**.
+This project showcases my ability to build a modern, responsive, and
+production-ready UI using core web technologies.
 
 ## Tech Stack
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
 
-## Fitur
-- Responsive layout
-- Modern UI
-- Call-to-action yang jelas
-- Struktur kode rapi
+## Features
+- Fully responsive layout
+- Clean and modern UI design
+- Clear call-to-action sections
+- Well-structured and maintainable code
 
 ## Live Demo
-https://WillyGrning.github.io/fitbook-gym-booking-landing/
+https://willygrning.github.io/fitbook-gym-booking-landing/
